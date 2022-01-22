@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-tutorial/static/js/main.c8bd5595.js",
+    "main.js": "/react-tutorial/static/js/main.de002b6f.js",
     "index.html": "/react-tutorial/index.html",
-    "main.c8bd5595.js.map": "/react-tutorial/static/js/main.c8bd5595.js.map"
+    "main.de002b6f.js.map": "/react-tutorial/static/js/main.de002b6f.js.map"
   },
   "entrypoints": [
-    "static/js/main.c8bd5595.js"
+    "static/js/main.de002b6f.js"
   ]
 }
